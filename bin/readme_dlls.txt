@@ -2,7 +2,7 @@ Resampler Engine2
 
 BY MISATO
 
-There is a Alpha Test of UTAU Reader Bridge on NewRenderModeB
+There is a Alpha Test of UTAU Reader Bridge on NewRenderMode
 
 First,Copy and Replace Files Into UTAU's Install Folder
 
@@ -10,7 +10,7 @@ Then,Checkon the Tools->Option->Rendering->"Use resampler.dll for rendering". or
 
 After those,you can got a faster reader motion.
 
-All the code is OpenSource with LGPL.You can crossfade yourselves resampler engine into this.
+All the code is OpenSource with LGPL in https://github.com/MISATOSUSUMI/UtauBridger.You can crossfade yourselves resampler engine into this.
 
 The Plugin EngineSwitcher will help you to change engine and setting a key.
 
