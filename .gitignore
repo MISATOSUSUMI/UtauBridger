@@ -3,6 +3,9 @@
 *.lo
 *.o
 *.obj
+*.tlog
+*.log
+*.exp
 
 # Precompiled Headers
 *.gch
@@ -11,7 +14,6 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
 
 # Fortran module files
 *.mod
@@ -19,10 +21,12 @@
 # Compiled Static libraries
 *.lai
 *.la
+*.ilk
+*.lastbuildstate
+*.pdb
+*.idb
 *.a
-*.lib
 
 # Executables
-*.exe
 *.out
 *.app

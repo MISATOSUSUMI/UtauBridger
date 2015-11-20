@@ -1,0 +1,1 @@
+.\LocateEmulator\LEProc.exe .\utau.exe

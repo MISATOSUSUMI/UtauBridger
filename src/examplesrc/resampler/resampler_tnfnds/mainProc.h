@@ -1,0 +1,1 @@
+int mainproc(int argc, char *argv[]);

@@ -1,0 +1,2 @@
+name=Engine2Switcher
+execute=Engine2Switer.exe

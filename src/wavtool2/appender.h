@@ -1,0 +1,1 @@
+int WhdDatAppender(char* whdFile, char* datFile, char* outputWave);

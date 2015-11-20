@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "resampler_vs4u", "resampler_vs4u.vcxproj", "{A136E578-C8E7-44E3-9D89-8479006ADBB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A136E578-C8E7-44E3-9D89-8479006ADBB0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A136E578-C8E7-44E3-9D89-8479006ADBB0}.Debug|Win32.Build.0 = Debug|Win32
+		{A136E578-C8E7-44E3-9D89-8479006ADBB0}.Release|Win32.ActiveCfg = Release|Win32
+		{A136E578-C8E7-44E3-9D89-8479006ADBB0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

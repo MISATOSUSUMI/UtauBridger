@@ -1,0 +1,6 @@
+engines\resampler\utauorignal\resampler_smart.dll
+engines\resampler\tn_fnds_exe\tn_fnds_exever.dll
+engines\resampler\tn_fnds\resampler_tnfnds.dll
+engines\resampler\tips\TIPS.dll
+engines\resampler\render4\render4.dll
+engines\resampler\vs4u\resampler_vs4u.dll

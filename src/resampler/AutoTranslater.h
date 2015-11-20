@@ -1,0 +1,1 @@
+void TranslateWAVPath(char* inputWaveFile,int ACP);

@@ -1,0 +1,2 @@
+engines\wavtool\utauorignal\wavtool2_smart.dll
+engines\wavtool\wavtool-pl\wavtool2_pl.dll
